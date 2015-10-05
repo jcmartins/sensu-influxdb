@@ -1,0 +1,11 @@
+{
+  "listen_host": "0.0.0.0",
+  "listen_port": "3333",
+  "listen_conn_type": "tcp",
+  "influxdb_host": "127.0.0.1",
+  "influxdb_port": "8086",
+  "influxdb_username": "",
+  "influxdb_password": "",
+  "influxdb_database": "sensu",
+  "log_received": true
+}

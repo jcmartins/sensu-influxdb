@@ -1,0 +1,7 @@
+*.exe
+*.test
+*.prof
+
+config.json
+pkg
+sensu-influxdb
